@@ -193,5 +193,5 @@ Framework documentation and worksheets in this repository are published under [C
 
 Tower Workshop is a fractional CTO practice specializing in always-on platform modernization for mid-market companies. Founded by **Ramberto Torruella Jr.**
 
-[LinkedIn](https://www.linkedin.com/in/ramberto) · [towerworkshop.com](https://towerworkshop.com) · [@TheTowerworkshop](https://github.com/TheTowerworkshop)
+[LinkedIn](https://www.linkedin.com/in/rambertotorruella/) · [towerworkshop.com](https://towerworkshop.com) · [@TheTowerworkshop](https://github.com/TheTowerworkshop)
 
